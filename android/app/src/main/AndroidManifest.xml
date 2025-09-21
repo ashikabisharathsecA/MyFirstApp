@@ -9,7 +9,10 @@
       android:roundIcon="@mipmap/ic_launcher_round"
       android:allowBackup="false"
       android:theme="@style/AppTheme"
+<<<<<<< HEAD
       android:usesCleartextTraffic="${usesCleartextTraffic}"
+=======
+>>>>>>> 0c20ee6b72d34fd0cf3fe15f33fff30ed4cb30b1
       android:supportsRtl="true">
       <activity
         android:name=".MainActivity"

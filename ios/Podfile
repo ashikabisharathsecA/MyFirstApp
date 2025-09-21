@@ -14,7 +14,11 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
+<<<<<<< HEAD
 target 'MyReactNativeAppNew' do
+=======
+target 'MyFirstApp' do
+>>>>>>> 0c20ee6b72d34fd0cf3fe15f33fff30ed4cb30b1
   config = use_native_modules!
 
   use_react_native!(

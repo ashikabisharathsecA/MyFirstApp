@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">MyReactNativeAppNew</string>
+=======
+    <string name="app_name">MyFirstApp</string>
+>>>>>>> 0c20ee6b72d34fd0cf3fe15f33fff30ed4cb30b1
 </resources>
